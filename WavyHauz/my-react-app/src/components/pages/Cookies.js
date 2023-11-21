@@ -3,14 +3,14 @@ import '../../App.css';
 import Navbar from '../Navbar';
 import Footer from '../Footer';
 
-export default function About() {
+
+export default function Cookies() {
   return (
-  
-  <div>
+<div>
     <h1>
-        WavyHauz was a pipe dream at one point until i put my mind to it
+   This is where the cookies go
       </h1>
-      <Footer />
+      <Footer/>
      </div>
    );
   };

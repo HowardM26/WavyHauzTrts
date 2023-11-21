@@ -1,7 +1,7 @@
-import Reavct, { Component } from'react';
-import logo from '../logo.svg';
+import React, { Component } from'react';
 import '../App.css';
 import NavBar from'./NavBar';
+
 
 class App extends Component {
   constructor() {
@@ -31,7 +31,7 @@ class App extends Component {
     const { cards } = this.state;
 
     return (
-      <div>
+      <div className="SomeBullShit">
         <link
           href="https://fonts.googleapis.com/css?family=Montserrat"
           rel="stylesheet"
@@ -143,6 +143,8 @@ class App extends Component {
 </footer>
 
         {/* Your additional content code goes here */}
+
+        
         {/* Your carousel code goes here */}
         {/* Your footer code goes here */}
       </div>

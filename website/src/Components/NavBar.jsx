@@ -16,7 +16,7 @@ function NavBar() {
             <span className="icon-bar"></span>
           </button>
           <a className="navbar-brand" href="#">
-            <img src="WavyHauzTrts_pics/"></img>
+            <img src="public/WavyHauzTrts_pics/Logo1__1.jpg/"></img>
           </a>
         </div>
         <div className="collapse navbar-collapse" id="myNavbar">
